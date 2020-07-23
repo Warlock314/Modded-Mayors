@@ -27,7 +27,7 @@
                   <Item>
                     <Simple value="IDClipWorldMap" />
                     <Simple value="4" />
-                  </Item>
+                  </Item> 
                 </Items>
               </Dictionary>
               <Dictionary name="Rows" keyType="System.String, mscorlib" valueType="System.String[], mscorlib">
